@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **vishalsharma331441@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1_0iZdvcTZs28oBBcwuxHw0w3Rl3hmIQ0/view?usp=sharing](https://drive.google.com/file/d/1_0iZdvcTZs28oBBcwuxHw0w3Rl3hmIQ0/view?usp=sharing)
+
 
 - ⚡ Fun fact **I am funny.**
 
