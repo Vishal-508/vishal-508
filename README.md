@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [Vishal-508.github.io](Vishal-508.github.io)
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **React, Js, Redux, MongoDB, Express, NodeJs**
 
 - 📫 How to reach me **vishalsharma331441@gmail.com**
 
