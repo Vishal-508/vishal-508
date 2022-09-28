@@ -5,6 +5,7 @@
 
 
 - 🌱 I’m currently learning **MERN-stack**
+- 🔭 I’m currently working on **Front-End and Back-End Projects**
 
 - 👨‍💻 All of my projects are available at [https://Vishal-508.github.io/](https://Vishal-508.github.io/)
 
