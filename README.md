@@ -4,8 +4,8 @@
 
 
 
-- 🌱 I’m currently learning **MERN-stack**
-- 🔭 I’m currently working on **Front-End and Back-End Projects**
+- 🌱 Currently working in DxMinds as a**Software Engineer**
+- 🔭 Currently working on **Front-End and Back-End Projects**
 
 - 👨‍💻 All of my projects are available at [https://Vishal-508.github.io/](https://Vishal-508.github.io/)
 
